@@ -1,0 +1,1 @@
+The dot after our command simply selects everything in the folder, so if you changed many files, they’d all be staged for committing at once. If you changed many files, but wanted to commit each one separately, or in logical bunches, you can select which files to stage for your commit, like so
